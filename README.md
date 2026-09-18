@@ -1,9 +1,8 @@
-<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/83c64af1-184b-45c0-b77a-bdd3a8bd27bc" /># IT Students Hub
 
 A PHP and MySQL web portal for IT students, styled as a retro "Frutiger Aero" browser/OS window. It brings together study materials, a GPA calculator, mini games, and a chat feature in one place.
 
 
-<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/00c334f8-604d-41db-a308-59d433b384a6" />
+<img width="1915" height="889" alt="image" src="https://github.com/user-attachments/assets/443bbef3-4d78-48cf-ad03-384e04044946" />
 
 
 ## Features
