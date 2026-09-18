@@ -1,3 +1,4 @@
+# IT Students Hub
 
 A PHP and MySQL web portal for IT students, styled as a retro "Frutiger Aero" browser/OS window. It brings together study materials, a GPA calculator, mini games, and a chat feature in one place.
 
